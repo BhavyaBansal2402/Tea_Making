@@ -3,12 +3,12 @@ Tea is one of the most popular hot beverages in world and especially in India. A
 
 It can be prepared with milk or milk powder and various types of plain or flavoured tea powders. This recipe prepares Indian tea using milk, Sugar, tea powder, ginger, cardamom and water.
 
-## Quantities
+# Quantities
 Milk and water are proportional to each other and each is half the quantity of tea to be made. Cardamoms are added as per the number of servings(number of cups).
 
-# Time Required
+## Time Required
 Preparation Time: 2 minutes
-Cooking Time: 10 minutes
+* Cooking Time: 10 minutes
 
 
 Thanks
