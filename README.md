@@ -6,8 +6,11 @@ It can be prepared with milk or milk powder and various types of plain or flavou
 Milk and water are proportional to each other and each is half the quantity of tea to be made. Cardamoms are added as per the number of servings(number of cups).
 
 Preparation Time: 2 minutes
+
 Cooking Time: 10 minutes
 
 Thanks
+
 Regards
+
 CHEF Bhavya Bansal
